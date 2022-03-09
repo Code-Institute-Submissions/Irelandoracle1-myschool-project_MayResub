@@ -55,3 +55,41 @@ color: 252525;
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* lagos image */
+
+#lagos-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+
+#lagos-image{
+    height: 600px;
+    width: 100%;
+    background:url('../images/lagos\ nigeria\ pic.jpg') no-repeat center center;
+
+    /*animation zoom effect on loading page*/
+
+animation-name: lagos-zoom;
+animation-duration: 5s;
+animation-fill-mode: forwards;
+
+
+}
+
+
+
+
+/* create level of zoom for lagos image */
+
+@keyframes lagos-zoom{
+    from{
+transform: scale(1);
+    }
+    
+    to{
+        transform: scale(1.1);
+    }
