@@ -80,7 +80,7 @@ color: 252525;
 
     /*animation zoom effect on loading page*/
 
-animation-name: lagos-zoom;
+animation-name: nigeria-zoom;
 animation-duration: 5s;
 animation-fill-mode: forwards;
 
@@ -90,9 +90,9 @@ animation-fill-mode: forwards;
 
 
 
-/* create level of zoom for lagos image */
+/* create level of zoom for Nigeria image */
 
-@keyframes lagos-zoom{
+@keyframes nigeria-zoom{
     from{
 transform: scale(1);
     }
@@ -123,7 +123,7 @@ transform: scale(1);
         position: absolute;
     }
 
-    /* lagos state*/
+    /* Nigeria*/
 
     #nigeria-country{
         height: 600px;
@@ -197,9 +197,11 @@ hr{
 }
 
 #circle-cover-bg{
-    background:url('../images/Eyo-Festival-Photo-from-Lagos-Govt.jpg') no-repeat center center;
+    background:url('../images/Festivals-in-Nigeria.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
-/
+#culture{
+    align-self: center;
+}
