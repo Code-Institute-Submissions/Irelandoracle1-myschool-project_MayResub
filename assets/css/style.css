@@ -197,6 +197,7 @@ hr{
 }
 
 #circle-cover-bg{
-    background:url('../images/lagos-center-image.jpg.jpg') no-repeat center center;
+    background:url('../images/eyo-\ jpg.jpg') no-repeat center center;
     height: 100%;
+    border-radius: 50%;
 }
