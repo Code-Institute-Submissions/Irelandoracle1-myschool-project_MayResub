@@ -57,9 +57,9 @@ color: 252525;
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* lagos image */
+/* nigeria image */
 
-#lagos-outer{
+#nigeria-outer{
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -73,7 +73,7 @@ color: 252525;
 }
 
 
-#lagos-image{
+#nigeria-image{
     height: 600px;
     width: 100%;
     background:url('../images/lagos\ nigeria\ pic.jpg') no-repeat center center;
@@ -125,7 +125,7 @@ transform: scale(1);
 
     /* lagos state*/
 
-    #Lagos-state{
+    #nigeria-country{
         height: 600px;
     }
 
@@ -197,18 +197,9 @@ hr{
 }
 
 #circle-cover-bg{
-    background:url('../images/eyo-\ jpg.jpg') no-repeat center center;
+    background:url('../images/Eyo-Festival-Photo-from-Lagos-Govt.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
-/* other festivals */
-
-#times{
-    background-image: url('../images/300px-National_Theater_in_Lagos_State-Nigeria.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
-}
+/
