@@ -1,3 +1,36 @@
 header {
-    display: flex
+    display: flex;
+    height: 60px;
+    align-items: center;
+    position: sticky;
+    top:0;
+    z-index: 100
+}
+
+.header_logo {
+    flex: 1;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.header_logo > a {
+    text-decoration: none;
+}
+
+.header_nav {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.header_option {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 16px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.header_option > a {
+    text-decoration: none;
 }
