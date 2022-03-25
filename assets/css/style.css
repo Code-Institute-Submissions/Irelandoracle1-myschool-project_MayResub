@@ -227,10 +227,6 @@ hr{
     box-sizing: border-box;
 }
 
-.header {
-    margin-bottom: 2.5rem;
-}
-
 form {
     padding: 2.5rem;
     /* margin-top: 75px; */
@@ -244,6 +240,8 @@ label {
 }
 .c-container {
     max-width: 540px;
+    border: 1px solid gray;
+
 }
 
 .c-container {
@@ -266,11 +264,22 @@ label {
     border-radius: 0.25rem;
 }
 
-/* .input-radio {
+.input-radio {
+    display: inline;
     min-height: 1.25rem;
     min-width: 1.25rem;
     margin-right: 0.625rem;
-} */
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0.5rem;
+}
 
 .submit-button {
     cursor: pointer;

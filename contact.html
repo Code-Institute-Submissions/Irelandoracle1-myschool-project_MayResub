@@ -12,17 +12,15 @@
 
  <body>
   <header> 
-    <div class="header">
       <a href="index.html"><h1>Nigerian Major Festivals</h1></a> 
-
-      <nav> 
-       <ul id="menu"> 
-        <li> <a href="contact.html">Contact</a> </li> 
-        <li> <a href="gallery.html">Gallery</a> </li> 
-        <li> <a href="index.html" class="active">Home</a> </li> 
-       </ul> 
-      </nav> 
-    </div>
+        <nav>
+          <ul id="menu"> 
+           <li> <a href="contact.html">Contact</a> </li> 
+           <li> <a href="gallery.html">Gallery</a> </li> 
+           <li> <a href="index.html" class="active">Home</a> </li> 
+           <li><a href="header.html">Header</a></li>
+          </ul> 
+         </nav> 
   </header> 
 
   <!-- <section id="nigeria-outer"> 
@@ -33,21 +31,22 @@
    </div> 
   </section> -->
 
+  
   <div class="c-container">
+    <h2>Contact US</h2>
     <main>
       <form action="/signup" method=""> 
-        <h1>Contact US</h1>
-
         <div class="form-control">
-            <p>
+          <p>Salutation</p>
+            <label>
               <input class="input-radio" type="radio"  name="title" value="mr">
               Mr
-            </p>
+            </label>
 
-            <p>
+            <label>
               <input class="input-radio" type="radio" name="title" value="mrs">
               Mrs
-            </p>
+            </label>
 
             <p>
               <input class="input-radio" type="radio" name="title" value="miss">
@@ -86,11 +85,11 @@
         <div class="form-control">
           <p>Country</p>
           <select class="fc">
-            <option >China</option>
-            <option>India</option>
-            <option>United States</option>
-            <option>Indonesia</option>
-            <option>Brazil</option>
+            <option selected disabled value="">Select an option</option>
+            <option>America</option>
+            <option >Europe</option>
+            <option>Asia</option>
+            <option>Rest Of The World</option>
           </select>
         </div>
 
