@@ -15,12 +15,13 @@ header {
 
 .header_logo > a {
     text-decoration: none;
+    text-size-adjust: 20%;
 }
 
-.header_nav {
+/* .header_nav {
     display:flex;
     justify-content: space-evenly;
-}
+} */
 
 .header_option {
     display: flex;
@@ -38,3 +39,4 @@ header {
 .header_option > a > span {
     font-size: 25px;
 }
+

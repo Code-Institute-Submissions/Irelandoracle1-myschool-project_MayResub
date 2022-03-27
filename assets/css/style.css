@@ -78,6 +78,7 @@ color: 252525;
     height: 600px;
     width: 100%;
     background:url('../images/lagos\ nigeria\ pic.jpg') no-repeat center center;
+    margin-top: 50px;
 
 
     /*animation zoom effect on loading page*/
@@ -294,19 +295,21 @@ header {
     display: flex;
     height: 40px;
     align-items: center;
-    /* position: sticky;
-    top:0; */
+    top:0;
     z-index: 100
 }
 
 .header_logo {
     flex: 1;
     font-size: 35px;
-    font-weight: 800;
+    font-weight: bold;
+    
+    padding-left: 15px;
 }
 
 .header_logo > a {
     text-decoration: none;
+    
 }
 
 .header_nav {
@@ -329,7 +332,7 @@ header {
 
 .header_option > a > span {
     font-size: 25px;
-}
+} */
 
 
 
@@ -422,7 +425,7 @@ footer{
 
     /* for medium screen sizes for 950px wide and down */
 
-    @media screen and (max width: 950px) {
+    @media screen and (max-width: 950px) {
         #menu {
             clear: left;
             float: left;
@@ -440,5 +443,11 @@ footer{
 @media screen and (max-width: 800px){
     #photos{
         column-count: 2;
+    }
+    .header_logo{
+        font-size: 14px;
+        font-weight: bold;
+        padding: 15px 0 0 15px;
+        
     }
 }
