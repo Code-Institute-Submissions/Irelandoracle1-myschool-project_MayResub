@@ -322,8 +322,6 @@ header {
     flex-direction: column;
     color: white;
     padding: 16px;
-    margin-right: 10px;
-    margin-left: 10px;
 }
 
 .header_option > a {
@@ -332,7 +330,7 @@ header {
 
 .header_option > a > span {
     font-size: 25px;
-} */
+} 
 
 
 
