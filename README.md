@@ -25,7 +25,7 @@ revert back to the previous page via the ‘back’ button.
 
  The landing includes a photograph with text overlay to allow the user to 
 see exactly which location this site would be applicable to.
- This section introduces the user to Love Running with an eye 
+ This section introduces the user to different types of festivals that occur in Nigeria 
 catching animation to grab their attention
 
 
@@ -33,14 +33,13 @@ catching animation to grab their attention
 .
 Festival section
 
- The festival section at the bottom will allow the user to see the benefits of signing up 
-and attend these eventts / festivals in Nigeria
+ The festival section at the bottom will allow the user to see the benefits to read and have an idea of what to expect if they intend to attend the festivals of choice  / cultural events in Nigeria
 
 
 
 
     The Footer
-The footer section includes links to the relevant social media sites for Love Running. 
+The footer section includes links to the relevant social media sites for Nigerian festivals. 
 The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 
@@ -75,12 +74,13 @@ Unfixed Bugs
 
 None
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+Deployment
 
-    The site was deployed to GitHub pages. The steps to deploy are as follows:
-        In the GitHub repository, navigate to the Settings tab
-        From the source section drop-down menu, select the Master Branch
-        Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    I deployed deployed this site to GitHub pages. 
+    The steps i followed to deploy are as follows:
+        In the GitHub repository i navigated to the Settings tab
+        From the source section drop-down menu,  i selected the Master Branch
+        when the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://irelandoracle1.github.io/myschool-project/index.html
 The git hub link is - Irelandoracle1/myschool-project 
@@ -89,16 +89,18 @@ The git hub link is - Irelandoracle1/myschool-project
 Credits
 
 
-i got my some contents from googlr and help from my mentor Mr Moosa Hassan
+i got my some contents from google and help from my mentor Mr Moosa Hassan.
+A friend who also encouraged me to take this course Fadeel Gbaye was of great help also in guiding and helping where i got lost in the project.
 
 
-    The text for the Home page was done myself
-    Instructions on how to implement form validation on the Sign Up page was taken from Love running Tutorial
+
+    The test for the Home page was done myself
+    Instructions on how to implement form validation on the Contact page was taken from Love running Tutorial
     The icons in the footer were taken from Font Awesome
 
 Media
 
-    The photos used on the home and sign up page are from This Open Source site
-    The images used for the gallery page were taken from this other open source site
+ Some of the gallery pictures are that of my Childern during a festival period in Nigeria.  
+ others were downloaded on google web search.
 
 
