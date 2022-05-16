@@ -6,7 +6,7 @@ Festivals means a lot to Nigerians as many believe it is a time to celebrate wha
 people travel from all over the world to witness these festivals, it is sometimes also organized by Government to shpwcase the beauty of who they represent and the lands.
 Individuals and groups wanting to take a tour or vacation to Nigeria will find the website very helpful to them.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/Irelandoracle1/myschool-project/blob/master/assets/images/projectimage.jpeg)
 
 ### Existing Features
 
