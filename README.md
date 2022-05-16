@@ -1,9 +1,9 @@
 # Nigerian Cultures & Festivals
 
-This website is about Nigerian cultures and festivals from different ethnic gropus in Nigeria. 
-It show cases different tribes and festivals they love to celebrate .
-Festivals means a lot to Nigerians as many believe it is a time to celebrate what binds them , just as christmas is to Christians or St patricks day is to Irish people. 
-people travel from all over the world to witness these festivals, it is sometimes also organized by Government to shpwcase the beauty of who they represent and the lands.
+This website is about Nigerian cultures and festivals from different ethnic groups in Nigeria. 
+It showcases different tribes and festivals they love to celebrate.
+Festivals means a lot to Nigerians, as many believe it is a time to celebrate what binds them, just as christmas is to Christians or St Patrick's day is to Irish people. 
+people travel from all over the world to witness these festivals, it is sometimes also organized by Government to showcase the beauty of who they represent and the lands.
 Individuals and groups wanting to take a tour or vacation to Nigeria will find the website very helpful to them.
 
 ![Responsice Mockup](https://github.com/Irelandoracle1/myschool-project/blob/master/assets/images/projectimage.jpeg)
@@ -12,15 +12,15 @@ Individuals and groups wanting to take a tour or vacation to Nigeria will find t
 
 - __Navigation Bar__
 
-  - Features on this Website includes the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - The Website features a responsive, navigation bar with links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
+  - The Navigation Bar allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar](https://github.com/Irelandoracle1/myschool-project/blob/master/assets/images/navlogo.JPG)
 
-- __The Landing page/ Home page__
+- __The Landing Page/ Home page__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to different types of festivals that occur in Nigeria with catching animation to grab their attention
+  - The Landing Page includes a graphics with text overlay to allow the user to see exactly which location this site would be applicable to. 
+  - The Landing Page introduces the user to different types of festivals that occur in Nigeria with catching animation to grab their attention
 
 ![Landing Page](https://github.com/Irelandoracle1/myschool-project/blob/master/assets/images/desktop-view.PNG)
 
@@ -70,7 +70,7 @@ None
 
 ## Deployment
 
-This are the steps I followed in deploying the website
+These are the steps I followed in deploying the website
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, I navigated to the Settings tab 
@@ -86,11 +86,10 @@ The live link can be found here - https://irelandoracle1.github.io/myschool-proj
 
 - Some contents were taken from google and help from my mentor Mr Moosa Hassan. 
  A friend who also encouraged me to take this course Fadeel Gbaye was of great help also in guiding and helping where i got lost in the project.
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons used in the footer, including the Social Media Icons, were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
- - The photos used on the home page, Gallery Page and Contact page are from This Site [here](https://www.fodors.com/news/photos/12-fun-colorful-festivals-you-can-only-experience-in-nigeria)
+ - The photos used on the home page, Gallery Page and Contact Page are from This Site [here](https://www.fodors.com/news/photos/12-fun-colorful-festivals-you-can-only-experience-in-nigeria)
 - Some of the gallery pictures are that of my Childern during a festival period in Nigeria.
 
 
