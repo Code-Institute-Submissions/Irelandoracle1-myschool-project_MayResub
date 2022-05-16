@@ -41,7 +41,7 @@
   <div class="c-container">
     <h2>Contact US</h2>
     <main>
-      <form action="index.html" method="post"> 
+      <form> 
         <div class="form-control">
           <p>Salutation</p>
             <label>
@@ -107,7 +107,8 @@
         </div>
 
         <div class="form-control">
-          <button class="submit-button">Sign up</button>
+           <button class="submit-button" onclick="redirect()" >Sign up</button> 
+          
           <button class="submit-button" type="reset">Reset form</button>
         </div>
       </form>
@@ -159,6 +160,11 @@
     <li> <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a> </li> 
    </ul> 
   </footer> 
-  <script src="https://kit.fontawesome.com/2d77270c97.js" crossorigin="anonymous"></script>  
+  <script src="https://kit.fontawesome.com/2d77270c97.js" crossorigin="anonymous"></script> 
+  <script type="text/javascript">
+    function redirect(){
+      window.location="index.html"
+    }
+  </script>
  </body>
 </html>
